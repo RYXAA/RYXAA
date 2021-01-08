@@ -5,7 +5,7 @@
 [![RYXAA github stats](https://github-readme-stats.vercel.app/api?username=RYXAA&show_icons=true&theme=radical)](https://github.com/RYXAA/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RYXAA&repo=)](https://github.com/RYXAA)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RYXAA&layout=compact)](https://github.com/RYXAA/)
-- 🔭 I’m currently studying on Senior High School on SEMARANG, JAWA TENGAH, Indonesia
+- 🔭 I’m currently studying on Senior High School on Semarang, Jawa Tengah, Indonesia
 - 🌱 I’m currently learning JS, CPP, C, PHP and HTML
 - ⚡fun fact:  Im is Open Mind Man
 - 📫 How to reach me : [GMAIL](mailto:unchek009@gmail.com) [FACEBOOK](https://www.facebook.com/profile.php?id=100026376015266) [DISCORD](-)
